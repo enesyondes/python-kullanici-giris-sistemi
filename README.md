@@ -1,2 +1,2 @@
 # python-kullanici-giris-sistemi
-Python'da kullanıcı giriş ve kayıt olma sistemi yaptım. Bazı güzel özellikler de ekledim.
+Python'da sql ve tkinter kullanarak kullanıcı giriş ve kayıt olma sistemi yaptım. 
